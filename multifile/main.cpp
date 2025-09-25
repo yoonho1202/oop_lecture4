@@ -1,6 +1,6 @@
 // main.cpp
 #include <iostream>
-#include "math.h"   // 내가 만든 헤더 불러오기
+#include "math.h"   
 using namespace std;
 
 int main() {
